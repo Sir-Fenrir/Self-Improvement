@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name">Self-Improvement</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Self-improvement App</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_values">Values</string>
+    <string name="menu_being_yourself">Being yourself</string>
+    <string name="menu_thinking_errors">Errors in thinking</string>
+    <string name="menu_thoughts">Challenging your thoughts</string>
+    <string name="menu_emotions">Questioning your feelings</string>
+    <string name="menu_reminders">Reminders</string>
+    <string name="menu_conversations">Conversation tips</string>
+
+    <string name="text_values">
+        I should act according to the following values:\n
+\n
+        - Good relations\n
+        - Creativity\n
+        - Open\n
+        - Honesty\n
+        - Humility\n
+        - Charitable\n
+        - Responsible\n
+        - Help others\n
+        - Standing up for myself\n
+        - Standing up for others\n
+        - Self respect\n
+        - Curiosity\n
+    </string>
+
+    <string name="text_being_yourself">
+        You judge yourself way more than others do.\n
+        \n
+        It\'s okay not to know things. You can always ask!\n
+        \n
+        It\'s okay to forget things. Accept, apologize and move on.\n
+        \n
+        Accept criticism. It sucks, but it doesn\'t deny all the things that went well! Learn from it.
+        Don\'t defend yourself. It\'s okay.\n
+        \n
+        Be open about your criticisms. Be honest.\n
+        \n
+        Don\'t colour or embellish the truth. Be honest. You are made by what happened to you and there is nothing to be ashamed about.\n
+        \n
+        It\'s okay to do things differently than is \'standard\' in society. Just don\'t other people with it.\n
+        \n
+        To stay true to yourself, you should be willing to say \'no\'. And if you want to be able to say no,
+        you should be willing to accept no.\n
+        \n
+        But being yourself doesn\'t mean you should never put effort into things that don\'t catch your interest.
+        If your friends is talking about something important to them, but it\'s not your thing, let them.\n
+        Ask them about it.\n
+        If you want to be yourself, help others to be themselves too.\n
+    </string>
+
+    <string name="text_emotions">
+        1. What do I feel?\n
+        \n
+        2. Why do I feel this?\n
+        \n
+        3. Why does this feel true?\n
+        \n
+        (Repeat 3 until you\'re at the root)\n
+        \n
+        4. Why do I consider this a success or a failure?\n
+        \n
+        5. Is the underlying metric/value one that is good to have?\n
+    </string>
+
+    <string name="text_reminders"><![CDATA[
+        \"Accept that life sucks sometimes.\"\n
+        \n
+        \"Focusing on gaining something puts the spotlight on how much you lack it.\"\n
+        \n
+        \"Happiness comes from solving problems.\"\n
+        \n
+        \"It\'s okay to be average. Most people are!\"\n
+        \n
+        \"The fault may lie anywhere, but responsible for dealing with it lies with you.\"\n
+        \n
+        \"We should prioritize values of being honest, fostering transparency, and welcoming doubt over the values of being right, feeling good and getting revenge.\"\n
+        \n
+        \"Certainty is the enemy of growth. Test your beliefs.\"\n
+        \n
+        \"Instead of striving for certainty, we should be in constant search of doubt: 
+        Doubt about our beliefs, doubt about our own feelings, doubt about what the future may hold for us unless we get out there and create it for ourselves.\"\n
+        \n
+        \"If you\'re sitting there, miserable day after day, then that means you\'re already wrong about 
+        something major in your life, and until you\'re able to question yourself to find it, 
+        nothing will change.\"\n
+        \n
+        \"Just do SOMETHING, the rest will follow.\"\n
+        \n
+        \"With simply DOING SOMETHING as your only metric for success, then even failure pushes you forward.\"\n
+        \n
+        \"A relationship requires conflict. If there never is any conflict, someone is being dishonest.\"\n
+        \n
+        \"Don\'t exaggerate how bad something is. Disasters are rare.\"\n
+        \n
+        \"Avoid saying \'I HAVE to do something\'. You WANT to do something:\n
+        I choose to do <thing> because I want to achieve <goal>.\"\n
+        \n
+        \"Blaming yourself doesn\'t change anything. Accept that you made a mistake, take responsibility and solve it.\"\n
+        \n
+        \"Emotional reasoning is misguided, because your feelings are not a correct representation of facts. They only tell you how you EXPERIENCE the facts, not anything about the facts themselves.\"\n
+        \n
+        \"Happiness requires struggle. It grows from problems. Joy doesn\'t just sprout out of the ground 
+        like daisies and rainbows. Real, serious, lifelong fulfillment and meaning have to be earned 
+        through the choosing and managing of our struggles.\"\n
+        \n
+        \"You can\'t win if you don\'t play.\"\n
+        \n
+        \"You\'re not special. And that\'s okay.\"\n
+        \n
+        \"It\'s important to say no. Set your boundaries in any relationship. And accept rejection. Accept their boundaries.\"
+]]> 
+    </string>
+
+    <string name="text_thinking_errors">
+        - Black &amp; White thinking: Situations are judged in binary instead of in a continuous spectrum.
+        Thoughts like these can be recognised by looking for words such as \'always\', \'everyone\', \'never\', \'nowhere\', or \'nothing\'.
+        Examples: \"Everyone can see that my cheecks are red.\" or \"I fail at everything I do.\".\n
+        \n
+        - Labeling future events as disasters: When you are absolutely certain that future events will end in a disaster. Any possible positive outcomes are ignored.\n
+        \n
+        - Labeling yourself: Judging yourself too quickly, without thinking that the proof for this could very well result to a less negative judgement about oneself.\n
+        For example, when you fail at something, immediately labeling yourself as a complete failure.\n
+        \n
+        - Reading minds: Filling in someone else their thoughts for them (generally not in your favour), without actually knowing what they think.\n
+        For example: Your conversation partner yawns, so you immediately think they\'re bored. The other options, them just being tired or them being rude, are ignored.\n
+        \n
+        - Personalising: Events or behavior of others is seen as a result of your perceived wrongdoings. For example, thinking the manager was grumpy because you made a mistake.\n
+        With this, it\'s good to remind yourself that the world does not revolve around you.\n
+        \n
+        - Thinking you HAVE to do something: Following strict and harsh rules, where failing to adhere to these is seen as terrible.
+        For example: \"I can\'t be overweight, because then I\'m unattractive.\" or \"I have to check the front door three times otherwise we\'ll be burgled and it\'ll be my fault.\".\n
+        \n
+        - Negative thinking: Neutral or even positive events are interpreted as negative anyway.
+        For example: A good result is purely seen as being lucky or being invited somewhere and thinking they only invite you out of pity.\n
+        \n
+        - Selective observation: Mostly having attention for the negatives. Focusing on a negative detail from an event and only thinking about that, thus the whole event is seen as negative.\n
+        \n
+        - Generalising: Leaping to big conclusions because of one or only a few experiences. Because it happened once, it will always go like this. Because I now … then it will always be like this.\n
+        \n
+        - Lack of empathy: Not being able to or wanting to understand why something goes the way it goes.
+        Not having an eye for important parts of circumstances and events in someones life which explain human behaviour.\n
+    </string>
+
+    <string name="text_thoughts">
+        1. What is the evidence?\n
+        Which facts support these thoughts?\n
+        What is the evidence against these thoughts?\n
+        \n
+        2. What is the worst that could happen? Can I overcome that?\n
+        \n
+        3. What is the best thing that could happen?\n
+        \n
+        4. Are there any other explanations or interpretations for this event?\n
+        \n
+        5. What is the most realistic end result?\n
+        \n
+        6. What experiences have I had that show that this isn\'t always fully true or even not true at all?\n
+        \n
+        7. Is there another view possible?\n
+        \n
+        8. What is the effect of my way of thinking?\n
+        \n
+        9. What would another view give me?\n
+        \n
+        10. What would I say to a colleague or a friend if they were in a similar situation?\n
+        \n
+        11. If a friend or colleague would know that I have this thought, what would they say to me?\n
+        \n
+        12. Imagine that I\'m twenty years older, I\'ve grown old and wise. What would I say then about this thought?\n
+        \n
+        13. Which positive sides of me or the situation am I purposely ignoring?\n
+        \n
+        14. Am I blaming myself for something I don\'t have full control over?\n
+        \n
+        15. Which errors in thinking am I making right now?\n
+        \n
+        16. What can I do about it?\n
+    </string>
+
+    <string name="text_conversations">
+        <![CDATA[Questions are a good way to keep a conversation going. However, it\'s important not to let it become an interrogation. Put something of yourself in there.\n
+        The following is a good flow in case you don\'t know what to do:\n
+        \n
+        -> Question\n
+        \n
+        <- Response\n
+        \n
+        -> Affirm response and make a statement (do more than say \'yes\' or \'that is cool\')\n
+        -> Follow up question\n
+    ]]></string>
+
+
+</resources>

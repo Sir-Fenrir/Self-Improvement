@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_values">
+
+    <fragment
+        android:id="@+id/nav_values"
+        android:name="ten.hoor.sander.self_improvement.ui.values.ValuesFragment"
+        android:label="@string/menu_values"
+        tools:layout="@layout/fragment_values" />
+
+    <fragment
+        android:id="@+id/nav_being_yourself"
+        android:name="ten.hoor.sander.self_improvement.ui.being_yourself.BeingYourselfFragment"
+        android:label="@string/menu_being_yourself"
+        tools:layout="@layout/fragment_being_yourself" />
+
+    <fragment
+        android:id="@+id/nav_thinking_errors"
+        android:name="ten.hoor.sander.self_improvement.ui.thinking_errors.ThinkingErrorsFragment"
+        android:label="@string/menu_thinking_errors"
+        tools:layout="@layout/fragment_thinking_errors" />
+
+    <fragment
+        android:id="@+id/nav_thoughts"
+        android:name="ten.hoor.sander.self_improvement.ui.thoughts.ThoughtsFragment"
+        android:label="@string/menu_thoughts"
+        tools:layout="@layout/fragment_thoughts" />
+
+    <fragment
+        android:id="@+id/nav_emotions"
+        android:name="ten.hoor.sander.self_improvement.ui.emotions.EmotionsFragment"
+        android:label="@string/menu_emotions"
+        tools:layout="@layout/fragment_emotions" />
+
+    <fragment
+        android:id="@+id/nav_conversations"
+        android:name="ten.hoor.sander.self_improvement.ui.conversations.ConversationsFragment"
+        android:label="@string/menu_conversations"
+        tools:layout="@layout/fragment_conversations" />
+
+    <fragment
+        android:id="@+id/nav_reminders"
+        android:name="ten.hoor.sander.self_improvement.ui.reminders.RemindersFragment"
+        android:label="@string/menu_reminders"
+        tools:layout="@layout/fragment_reminders" />
+</navigation>
